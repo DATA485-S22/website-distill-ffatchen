@@ -3,11 +3,6 @@ title: "Faith's Blog"
 description: |
   My Blog
 output_dir: "docs"
-base_url: https://github.com/DATA485-S22/website-distill-ffatchen
-collections:
-  posts:
-    disqus: fun-things
-    hidden: false
 navbar:
   right:
     - text: "Home"
