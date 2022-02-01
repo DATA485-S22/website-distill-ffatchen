@@ -1,8 +1,13 @@
-name: "ads-website-distill"
-title: "&quot;Test-Distill-Website&quot;"
+name: "."
+title: "Faith's Blog"
 description: |
-  &quot;Test-Distill-Website&quot;
+  My Blog
 output_dir: "docs"
+base_url: https://github.com/DATA485-S22/website-distill-ffatchen
+collections:
+  posts:
+    disqus: fun-things
+    hidden: false
 navbar:
   right:
     - text: "Home"
